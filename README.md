@@ -1,4 +1,4 @@
-# 🚀 Framework de Automação de APIs – Java
+# 🚀 Framework de Automação Nexus - FAN
 
 ![Java](https://img.shields.io/badge/Java-21%2B-orange?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JUnit 5](https://img.shields.io/badge/JUnit-5-green?style=for-the-badge&logo=junit5&logoColor=white)
