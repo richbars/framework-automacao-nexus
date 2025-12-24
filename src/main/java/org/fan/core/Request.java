@@ -1,4 +1,4 @@
-package org.framework.core;
+package org.fan.core;
 
 import java.net.URI;
 import java.net.URLEncoder;

@@ -1,4 +1,4 @@
-package org.framework.core;
+package org.fan.core;
 import org.junit.jupiter.api.Assertions;
 
 public class Validar {

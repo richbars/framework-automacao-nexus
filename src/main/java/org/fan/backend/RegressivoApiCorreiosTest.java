@@ -1,7 +1,7 @@
-package org.framework.backend;
+package org.fan.backend;
 
-import org.framework.core.Request;
-import org.framework.core.Validar;
+import org.fan.core.Request;
+import org.fan.core.Validar;
 import org.junit.jupiter.api.Test;
 
 public class RegressivoApiCorreiosTest {
